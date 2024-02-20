@@ -38,7 +38,6 @@
     "ember-cli-app-version": "^5.0.0",
     "ember-cli-dependency-checker": "^3.2.0",
     "ember-cli-inject-live-reload": "^2.1.0",
-    "ember-cli-sass": "~6.1.2",
     "ember-cli-sri": "^2.1.0",
     "ember-cli-terser": "^4.0.2",
     "ember-export-application-global": "^2.0.1",
